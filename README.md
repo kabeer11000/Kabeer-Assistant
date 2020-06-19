@@ -1,4 +1,4 @@
-<h1 align="center">Aimybox voice assistant</h1>
+<h1 align="center">Kabeer Voice Assistant</h1>
 <a href="https://aimybox.com"><img src="https://i.imgur.com/qyCxMmO.gif" align="right"></a>
 
 <h4 align="center">Open source voice assistant built on top of <a href="https://github.com/just-ai/aimybox-android-sdk">Aimybox SDK</a></h4>
